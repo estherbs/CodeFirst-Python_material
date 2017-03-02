@@ -3,11 +3,10 @@ import requests
 
 # loading the info
 from keys import *
+# means import everything (wildcard*) from keys
 
 
 # email particulars
-recipient = ''
-sender = ''
 
 
 # email specifics
